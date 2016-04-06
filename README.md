@@ -16,6 +16,6 @@ Add dependencies
 
 ```gradle
 dependencies {
-  compile 'com.ucweb.union.ads:unionads:2.1.+'
+  compile 'com.ucweb.union.ads:unionads:2.2.+'
 }
 ```
