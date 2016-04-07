@@ -19,3 +19,11 @@ dependencies {
   compile 'com.ucweb.union.ads:unionads:2.2.+'
 }
 ```
+
+## Direct Download
+
+|Version|Direct Download Link|
+|:---:|:---:|
+|2.2.2.140|[Download Link][unionads-2-2-2-140]|
+
+[unionads-2-2-2-140]: https://github.com/uc-union/union-ads-maven-repository/raw/master/com/ucweb/union/ads/unionads/2.2.2.140/unionads-2.2.2.140.aar
