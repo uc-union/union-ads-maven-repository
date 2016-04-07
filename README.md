@@ -20,7 +20,7 @@ dependencies {
 }
 ```
 
-## Direct Download
+## Direct Download (Not recommended)
 
 |Version|Direct Download Link|
 |:---:|:---:|
