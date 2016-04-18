@@ -26,8 +26,8 @@ dependencies {
 
 |Version|Direct Download Link|
 |:---:|:---:|
-|2.2.2.141|[Download Link][unionads-2-2-2-141]|
+|2.2.3.142|[Download Link][unionads-2-2-3-142]|
 |2.1.1.121|[Download Link][unionads-2-1-1-121]|
 
-[unionads-2-2-2-141]: https://github.com/uc-union/union-ads-maven-repository/raw/master/com/ucweb/union/ads/unionads/2.2.2.141/unionads-2.2.2.141.aar
+[unionads-2-2-3-142]: https://github.com/uc-union/union-ads-maven-repository/raw/master/com/ucweb/union/ads/unionads/2.2.3.142/unionads-2.2.3.142.aar
 [unionads-2-1-1-121]: https://github.com/uc-union/union-ads-maven-repository/raw/master/com/ucweb/union/ads/unionads/2.1.1.121/unionads-2.1.1.121.jar

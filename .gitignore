@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Android Studio
+.idea/
+*.iml
+captures/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+gen/
+
+# Vim
+.sw[po]
+.*.sw[po]
+
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Mac
+.DS_Store
+
+# Output folder
+out/
+
+local.properties
