@@ -3,7 +3,7 @@
   <groupId>com.ucweb.union.ads</groupId>
   <artifactId>unionads</artifactId>
   <versioning>
-    <release>2.2.5.146</release>
+    <release>2.3.3.185</release>
     <versions>
       <version>2.1.1.120</version>
       <version>2.1.1.121</version>
@@ -12,7 +12,8 @@
       <version>2.2.3.142</version>
       <version>2.2.4.145</version>
       <version>2.2.5.146</version>
+      <version>2.3.3.185</version>
     </versions>
-    <lastUpdated>20160429121518</lastUpdated>
+    <lastUpdated>20160520033321</lastUpdated>
   </versioning>
 </metadata>
