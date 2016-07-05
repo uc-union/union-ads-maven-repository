@@ -18,7 +18,7 @@ Add dependencies for the android application project
 
 ```gradle
 dependencies {
-  compile 'com.ucweb.union.ads:unionads:2.3.+'
+  compile 'com.ucweb.union.ads:unionads:2.4.+'
 }
 ```
 
