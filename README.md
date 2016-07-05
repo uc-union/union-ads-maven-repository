@@ -26,6 +26,7 @@ dependencies {
 
 |Version|Direct Download Link|
 |:---:|:---:|
+|2.4.3.195|[Download Link][unionads-2-4]|
 |2.3.3.185|[Download Link][unionads-2-3]|
 |2.2.5.146|[Download Link][unionads-2-2]|
 |2.1.1.121|[Download Link][unionads-2-1]|
