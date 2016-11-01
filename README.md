@@ -28,8 +28,6 @@ dependencies {
 |:---:|:---:|
 |3.1.3.226|[Download Link][unionads-3-1]|
 |3.0.10.212|[Download Link][unionads-3-0]|
-|2.4.4.196|[Download Link][unionads-2-4]|
-|2.3.4.186|[Download Link][unionads-2-3]|
 
 
 [unionads-2-1]: https://github.com/uc-union/union-ads-maven-repository/raw/master/com/ucweb/union/ads/unionads/2.1.1.121/unionads-2.1.1.121.jar
